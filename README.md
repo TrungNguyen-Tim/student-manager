@@ -6,7 +6,6 @@ Simple Python project to manage student information.
 - Add student
 - Calculate average score
 - Classify student
-- Menu system
 
 ## How to run
 python main.py
